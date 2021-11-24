@@ -1,0 +1,21 @@
+{
+  "name": "scooter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibowers18/scooter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibowers18/scooter/issues"
+  },
+  "homepage": "https://github.com/Ibowers18/scooter#readme"
+}
