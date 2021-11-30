@@ -9,6 +9,6 @@ class chargingstation {
     }
 
 
-
+    
 }
 module.exports = chargingstation

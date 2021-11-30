@@ -18,4 +18,5 @@ describe('Chargingstation', () => {
         expect(testchargingstation.scooters.length).toBe(1)
 
     })
+
 })
